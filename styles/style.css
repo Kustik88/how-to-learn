@@ -7,12 +7,15 @@
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #f2f2f2;
 }
 
 .header {
+  display: flex;
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
+  margin: 0 auto;
   /* выше установили ограничения для секции */
 }
 
@@ -21,7 +24,15 @@
   height: 568px;
   width: 568px;
 }
+.logo{
+  width: 228px;
+  height: 32px;
+}
 
+.logo_place_header{
+  margin-top: 0;
+
+}
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
