@@ -1,0 +1,66 @@
+.font_size-18{
+  font-size: 18px;
+}
+.font_size-24{
+  font-size: 24px;
+}
+.font_size-36{
+  font-size: 36px;
+}
+.font_size-60{
+  font-size: 60px;
+}
+.font_size-102{
+  font-size: 102px;
+}
+.font_size-115{
+  font-size: 115px;
+}
+.font_size-120{
+  font-size: 120px;
+}
+.font_weight-bold{
+  font-weight: 600;
+}
+.font_weight-normal{
+  font-weight: normal;
+}
+.line_height-25{
+  line-height: 25px;
+}
+.line_height-30{
+  line-height: 30px;
+}
+.line_height-34{
+  line-height: 34px;
+}
+.line_height-51{
+  line-height: 51px;
+}
+.line_height-96{
+  line-height: 96px;
+}
+.line_height-1-15{
+  line-height: 1.15;
+}
+.line_height-1-2{
+  line-height: 1.2;
+}
+.font_25-18-normal{
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+}
+.font_30-18-bold{
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.font_30-18-normal{
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+}
+.font-color_white{
+  color: white;
+}
