@@ -6,8 +6,8 @@
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/link/link.css);
 @import url(../blocks/header/__link/header__link.css);
-@import url(../blocks/header/__link/_type/header__link_type_opacity.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/rotation/rotation.css);
@@ -30,13 +30,13 @@
 @import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__elem/video__item.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/feynman/feynman.css);
 @import url(..//blocks/feynman/__title/feynman__title.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
-@import url(../blocks/feynman/__link/_type/feynman__link_type_opacity.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
@@ -55,14 +55,13 @@
 @import url(../blocks/khan/__book-container/khan__book-container.css);
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
-@import url(..//blocks/khan/__buy-link/_type/khan__buy-link_type_opacity.css);
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/__elem/resources__elem.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 @import url(../blocks/resources/__link/resources__link.css);
-@import url(../blocks/resources/__link/_type/resources__link_type_opacity.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__column/footer__column.css);
@@ -72,5 +71,4 @@
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column-item/footer__column-item.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
-@import url(../blocks/footer/__column-link/_type/footer__column-link_type_opacity.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);

@@ -1,7 +1,0 @@
-.resources__link_type_opacity {
-  transition: opacity 1s ease-in-out;
-}
-
-.resources__link_type_opacity:hover {
-  opacity: .5;
-}

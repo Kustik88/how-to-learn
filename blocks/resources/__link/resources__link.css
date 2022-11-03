@@ -2,3 +2,7 @@
   display: inline-block;
   text-decoration: none;
 }
+
+.resources__link:hover {
+  opacity: .5;
+}

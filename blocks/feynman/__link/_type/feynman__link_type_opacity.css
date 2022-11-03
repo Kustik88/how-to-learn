@@ -1,7 +1,0 @@
-.feynman__link_type_opacity {
-  transition: opacity 1s ease-in-out;
-}
-
-.feynman__link_type_opacity:hover {
-  opacity: .5;
-}

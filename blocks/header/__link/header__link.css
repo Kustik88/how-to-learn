@@ -3,3 +3,7 @@
   margin: 0;
   text-decoration: none;
 }
+
+.header__link:hover {
+    opacity: .5;
+}
