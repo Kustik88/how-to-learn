@@ -1,0 +1,7 @@
+.knan__buy-link_type_opacity {
+  transition: opacity 1s ease-in-out;
+}
+
+.knan__buy-link_type_opacity:hover {
+  opacity: .5;
+}
